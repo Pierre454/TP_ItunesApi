@@ -1,0 +1,33 @@
+*:focus {
+    outline: none;
+}
+
+h1{
+    text-align: center;
+}
+
+#recherche {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#bouton {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
+#divCard{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 2%;
+}
+
+.audio-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+}
